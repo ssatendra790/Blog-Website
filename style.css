@@ -75,7 +75,7 @@ text-align: right;
 }
 
 .background{
-/*     background: rgba(0,0,0,0.7) url('../img/bgimg.jpg'); */
+
      background: rgba(0,0,0,0.7) url('https://source.unsplash.com/900x900/?marvel,avengers,spiderman,ironman');
     background-size: cover;
     background-blend-mode: darken;
