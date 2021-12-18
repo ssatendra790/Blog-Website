@@ -76,7 +76,7 @@ text-align: right;
 
 .background{
 /*     background: rgba(0,0,0,0.7) url('../img/bgimg.jpg'); */
-     background: rgba(0,0,0,0.7) url('https://source.unsplash.com/900x900/?hollywood,avengers,ironman,spiderman,thor,marvel');
+     background: rgba(0,0,0,0.7) url('https://source.unsplash.com/900x900/?hollywood,avengers,ironman,spiderman,thor,marvel,nature');
     background-size: cover;
     background-blend-mode: darken;
 }
